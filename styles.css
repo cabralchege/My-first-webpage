@@ -1,0 +1,15 @@
+h1,h2{
+    text-align: center;
+}
+
+P{
+    text-align: center;
+    font-size: 30px;
+}
+
+body{
+    background-image:url('https://bit.ly/3bkVVAs');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
